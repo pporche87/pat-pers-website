@@ -1,28 +1,15 @@
-Miniport by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# Peronal Website - Patrick Porch&eacute;
 
+Diversity in technology is my passion! I see a future where the needs of the masses can be met by leveraging the tools that are already at our disposal. As an ethical, career driven, and highly competent software engineer I see myself contributing to that reality happening in this lifetime.
 
-A super simple responsive portfolio template. It's only a single page because hey, sometimes
-you don't need a half dozen pages to make your point.
+Please contact me if you have any questions.
 
-Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
-you can use for pretty much whatever.
-
-(* = Not included)
-
-Feedback, bug reports, and comments are not only welcome, but strongly encouraged :)
-
-AJ
-aj@lkn.io | @ajlkn
-
-PS: Not sure how to get that contact form working? Give formspree.io a try (it's awesome).
-
+pporche87@gmail.com
 
 Credits:
 
-	Demo Images:
-		Unsplash (unsplash.com)
+	Miniport by HTML5 UP
+	html5up.net | @ajlkn
 
 	Icons:
 		Font Awesome (fortawesome.github.com/Font-Awesome)
